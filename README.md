@@ -1,4 +1,10 @@
-# Aims
+# The Citation File Format project
+
+In this repository, the Steering Committee of the Citation File Format project maintains documents regarding the governance of the project.
+
+The governance of the Citation File Format project is described in the [governance document](GOVERNANCE.md).
+
+## Aims
 
 The Citation File Format makes it easier for research software engineers
 and researchers to make their software citable, and for their users to
@@ -17,12 +23,12 @@ software becomes part of the scholarly record, and 2) the people that
 create the software receive credit for their work. Citing software also
 creates provenance for research and enables reproducibility.
 
-# Scope
+## Scope
 
 The Citation File Format project primarily focuses on **citation**
 metadata for **software**.
 
-# Code of Conduct
+## Code of Conduct
 
 The Citation File Format project has adopted a [Code of Conduct (CoC)](CODE_OF_CONDUCT.md),
 also available on the Code of Conduct page on the project website. This CoC
